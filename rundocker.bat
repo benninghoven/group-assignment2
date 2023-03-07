@@ -14,8 +14,8 @@ if [%found%] == [] (
   echo 🐳 Image found
 )
 
-set "current_dir=%CD%"
-set "current_dir=\"!current_dir!\""
+set current_dir=%CD%
+set current_dir="%current_dir%"
 
 docker run -it ^
     -v %current_dir%/src:/app/src ^
