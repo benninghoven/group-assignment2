@@ -1,1 +1,2 @@
-I'm a pipe!
+NO ARG PASSED
+Time elapsed: 0.000859 seconds
