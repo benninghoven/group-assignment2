@@ -26,7 +26,8 @@ using namespace std;
 
 
 int main() {
-    cout << "What does shm mean 🤔 ?!!\n";
+    cout << "What does shm mean ?!!\n";
+    cout <<"Hi :)" <<endl;
     return 0;
 }
 
